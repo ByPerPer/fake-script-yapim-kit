@@ -14,7 +14,7 @@ Fake script yapımını kolaylaştıran dosya. Türkçe kod yazmanızı sağlar.
 
 [Videoya gitmek için tıkla](https://pages.github.com/)
 
-Dosyayı yapacağınız scriptin klasörüne atın.Ardından PHP dosyanızın başına şu kod satırını ekleyin;
+Dosyayı yapacağınız scriptin klasörüne atın.Ardından PHP dosyanızın başına şu kod satırını ekleyin(önce indirmeniz gerekli,Clone For Download kısmından .zip şeklinde indirebilirsiniz);
 
 `include ("fonksiyonlar.php");`
 
